@@ -310,7 +310,7 @@ class idna_convert
                 // Right, no break here, the above are converted to dots anyway
             // Stumbling across an anchoring character
             case 0x2E:
-            case 0x2F:
+            // case 0x2F:
             case 0x3A:
             case 0x3F:
             case 0x40:

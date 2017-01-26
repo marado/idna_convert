@@ -1,4 +1,2 @@
-idna_convert
-============
-
-A fork of http://phlymail.com/en/downloads/idna-convert.html so I can submit patches upstream
+This most certainly is what you're looking for: check https://github.com/phlylabs/idna-convert instead.
+If you bumped into this via ProBind, check https://github.com/bevhost/probind/issues/19 .
